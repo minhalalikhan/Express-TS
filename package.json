@@ -1,5 +1,5 @@
 {
-    "name": "express-typescipt",
+    "name": "express-typescript",
     "version": "1.0.0",
     "description": "basic node.js project to practice node events",
     "main": "index.js",
